@@ -1,0 +1,10 @@
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.exe.config
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.exe
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.pdb
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.AssemblyReference.cache
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.Properties.Resources.resources
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.GenerateResource.cache
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.CoreCompileInputs.cache
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.exe
+C:\Users\Aqila Fitri Alitu\Documents\GitHub\Foodie_Test\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.pdb
